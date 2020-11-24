@@ -1,5 +1,5 @@
 import React from "react"
-import { css } from "@emotion/react"
+import { css } from "@emotion/core"
 import { graphql, Link, useStaticQuery } from "gatsby"
 
 import { rhythm } from "../utils/typography"
